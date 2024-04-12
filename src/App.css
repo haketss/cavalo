@@ -1,0 +1,45 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.navbar-brand {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.container-fluid {
+  margin: 0;
+  border: 0;
+}
+
+
+.navbar {
+  margin: 0;
+  border: 0;
+}
+
+.logo {
+  margin-right: -100px;
+}
+
+#navtext {
+  margin: 10px;
+}
+
+#rowprincipal {
+  background-color: rgb(255, 255, 255);
+}
+
+#containerprincipal {
+  background-color: rgb(255, 255, 255);
+}
+
+img {
+  border-radius: 5px;
+}
+
+#foto1 {
+border-radius: 30px;
+}
